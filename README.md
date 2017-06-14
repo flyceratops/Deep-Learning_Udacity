@@ -1,2 +1,2 @@
-# My-First-Neural-Network
-My first neural network for Deep Learning at Udacity
+# Deep Learning Foundation Nanodegree Program at Udacity
+My projects from the course.
