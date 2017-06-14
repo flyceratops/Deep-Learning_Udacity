@@ -1,2 +1,2 @@
 # Deep Learning Foundation Nanodegree Program at Udacity
-My projects from the course.
+Projects and notes from the course.
